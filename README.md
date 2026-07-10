@@ -55,7 +55,7 @@ CREATE TABLE bengaluru_ola_rides (
 ```sql
 select * from bengaluru_ola_rides;
 ```
-### 18 business problems and solutions
+## 18 business problems and solutions
 
  ## Question 1: Retrieve all successful bookings.
 ```sql
